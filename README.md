@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hyunjin Kim</h1>
-<p>
+<p align="left">
 Welcome to my Github! Here, you'll find a collection of the work I've done. Each project reflecting my growth as a developer.
 I have a passion for **front-end development and UI/UX design**, and I love creating visually appealing, user-friendly experiences. I enjoy bringing ideas to life through code and design. My projects highlight not just my technical skills but also my creativity, adaptability, and teamwork.
 
