@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hyunjin Kim</h1>
-<h3 align="center">A committed learner and developer, always eager to expand my technical expertise</h3>
+<p>
+Welcome to my Github! Here, you'll find a collection of the work I've done. Each project reflecting my growth as a developer.
+I have a passion for **front-end development and UI/UX design**, and I love creating visually appealing, user-friendly experiences. I enjoy bringing ideas to life through code and design. My projects highlight not just my technical skills but also my creativity, adaptability, and teamwork.
+
+Feel free to explore, and I hope you enjoy my work as much as I enjoyed creating it! 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzkm613&label=Profile%20views&color=0e75b6&style=flat" alt="hzkm613" /> </p>
 
