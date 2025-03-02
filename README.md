@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋</h1>
 <p align="left">
-Welcome to my Github! I love creating visually appealing, user-friendly experiences. 
-I enjoy bringing ideas to life through code and design. Feel free to explore, and I hope you enjoy my work as much as I enjoyed creating it! 🚀</p>
+Welcome to my Github!<br /> I love creating visually appealing, user-friendly experiences. <br />
+I enjoy bringing ideas to life through code and design. <br /> Feel free to explore, and I hope you enjoy my work as much as I enjoyed creating it! 🚀</p>
 <br />
 - 🌱 I’m currently learning <b>React.js</b> <br />
 - 🧑‍💻 I'm currently working on <b>something creative</b> <br />
