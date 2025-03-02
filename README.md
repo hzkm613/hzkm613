@@ -3,9 +3,9 @@
 Welcome to my Github! I love creating visually appealing, user-friendly experiences. 
 I enjoy bringing ideas to life through code and design. Feel free to explore, and I hope you enjoy my work as much as I enjoyed creating it! 🚀</p>
 <br />
-- 🌱 I’m currently learning **React.js** <br />
-- 🧑‍💻 I'm currently working on **Something creative** <br />
-- 📫 How to reach me **hzkm613@gmail.com** <br />
+- 🌱 I’m currently learning <b>React.js</b> <br />
+- 🧑‍💻 I'm currently working on <b>Something creative</b> <br />
+- 📫 How to reach me <b>hzkm613@gmail.com</b> <br />
 - 📖 Explore my journey more on my blog [Medium](https://medium.com/@hzkm613) <br />
 <br />
 <h3 align="left">🔗 Connect with me</h3>
