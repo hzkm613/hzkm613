@@ -3,16 +3,16 @@
 Welcome to my Github! I love creating visually appealing, user-friendly experiences. 
 I enjoy bringing ideas to life through code and design. Feel free to explore, and I hope you enjoy my work as much as I enjoyed creating it! 🚀</p>
 <br />
-- 🌱 I’m currently learning **React.js**
-- 🧑‍💻 I'm currently working on **Something creative**
-- 📫 How to reach me **hzkm613@gmail.com**
-- 📖 Explore my journey more on my blog [Medium]("https://medium.com/@hzkm613")
+- 🌱 I’m currently learning **React.js** <br />
+- 🧑‍💻 I'm currently working on **Something creative** <br />
+- 📫 How to reach me **hzkm613@gmail.com** <br />
+- 📖 Explore my journey more on my blog [Medium](https://medium.com/@hzkm613) <br />
 <br />
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hynujinkim/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hynujinkim/" height="30" width="40" /></a>
-<a href="https://instagram.com/hzkm0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hzkm0" height="30" width="40" /></a>
-<a href="https://medium.com/hzkm613" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hzkm613" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hynujinkim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hynujinkim/" height="30" width="40" /></a>
+<a href="https://instagram.com/hzkm0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hzkm0" height="30" width="40" /></a>
+<a href="https://medium.com/hzkm613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="hzkm613" height="30" width="40" /></a>
 </p>
 <br />
 <h3 align="left">⛏️ Languages and Tools</h3>
